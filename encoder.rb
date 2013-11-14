@@ -3,17 +3,18 @@ secret = "I am a horder of cats"
 #replace " a" with "xo"
 #I xm x horder of cxts
 secret1 = secret.tr('a', "x")
-puts secret1
+
+
 
 #reverse string
 #stxc fo redroh x mx I
 secret2 = secret1.reverse
-puts secret2
+
 
 #split string into an array
 #["stxc", "fo", "redroh", "x", "mx", "I"]
 secret3 = secret2.split
-puts secret3
+#puts secret3
 
 #replace o's with 1's
 #Ix1mx1xh1rderx1fxc1ts
@@ -22,8 +23,6 @@ puts secret3
 
 #reverse string
 #
-
-
 
 
 
